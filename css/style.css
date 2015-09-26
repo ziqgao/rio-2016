@@ -1,0 +1,32 @@
+.container{
+	background-color:red;
+	padding:20px 20px 20px 20px;
+	font-family:Helvetica;
+}
+
+.row1{
+	font-size: 50px;
+	
+}
+
+.row2{
+	font-size:28px;
+	
+	float:right;
+}
+
+.row3{
+	font-size:50px;
+
+}
+
+.row4{
+	font-size:38px;
+	padding-left:100px;
+
+}
+.row5{
+	font-size:28px;
+
+
+}
